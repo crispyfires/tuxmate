@@ -265,6 +265,28 @@
     }
   },
   {
+    "id": "geany",
+    "name": "Geany",
+    "description": "Fast and lightweight IDE",
+    "category": "Dev: Editors",
+    "targets": {
+      "ubuntu": "geany",
+      "debian": "geany",
+      "arch": "geany",
+      "fedora": "geany",
+      "opensuse": "geany",
+      "nix": "geany",
+      "void": "geany",
+      "flatpak": "org.geany.Geany",
+      "homebrew": "--cask geany"
+    },
+    "unavailableReason": "Snap is unmaintained, download from [Geany](https://www.geany.org/download/releases/) or use [Flatpak](https://flathub.org/en/apps/org.geany.Geany).",
+    "icon": {
+      "type": "url",
+      "url": "https://www.geany.org/static/img/geany.svg"
+    }
+  },
+  {
     "id": "intellij-idea",
     "name": "Intellij IDEA",
     "description": "IDE for Java and Kotlin developers by Jetbrains",
