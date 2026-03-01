@@ -227,8 +227,10 @@
     },
     "unavailableReason": "Not in most official repos. Use [Flatpak](https://flathub.org/en/apps/one.ablaze.floorp) or see [floorp.app](https://floorp.app/download).",
     "icon": {
-      "type": "url",
-      "url": "https://avatars.githubusercontent.com/u/94953125?s=200&v=4"
+      "type": "iconify",
+      "set": "simple-icons",
+      "name": "floorp",
+      "color": "#4B42FF"
     }
   }
 ]
