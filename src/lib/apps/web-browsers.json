@@ -306,5 +306,25 @@
       "type": "url",
       "url": "https://nyxt.atlas.engineer/image/nyxt_square_corner_128x128.png"
     }
+  },
+  {
+    "id": "edge",
+    "name": "Microsoft Edge",
+    "description": "Propietary web browser by Microsoft",
+    "category": "Web Browsers",
+    "targets": {
+      "arch": "microsoft-edge-stable-bin",
+      "opensuse": "microsoft-edge-stable",
+      "nix": "microsoft-edge",
+      "flatpak": "com.microsoft.Edge"
+    },
+    "unavailableReason": "Not in most official repos. Use [Flatpak](https://flathub.org/en/apps/com.microsoft.Edge) or download the .deb from [microsoft.com](https://www.microsoft.com/en-us/edge/)",
+    "icon": {
+      "icon": {
+        "type": "iconify",
+        "set": "logos",
+        "name": "microsoft-edge"
+      }
+    }
   }
 ]
