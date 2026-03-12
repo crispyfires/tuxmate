@@ -221,6 +221,7 @@
     "targets": {
       "ubuntu": "konqueror",
       "debian": "konqueror",
+      "arch": "konqueror",
       "fedora": "konqueror",
       "opensuse": "konqueror",
       "nix": "konqueror",
@@ -240,6 +241,7 @@
     "targets": {
       "ubuntu": "falkon",
       "debian": "falkon",
+      "arch": "falkon",
       "fedora": "falkon",
       "opensuse": "falkon",
       "nix": "falkon",
@@ -260,6 +262,7 @@
     "targets": {
       "ubuntu": "epiphany-browser",
       "debian": "epiphany-browser",
+      "arch": "epiphany",
       "fedora": "epiphany",
       "opensuse": "epiphany",
       "nix": "epiphany",
