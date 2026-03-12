@@ -320,11 +320,9 @@
     },
     "unavailableReason": "Not in most official repos. Use [Flatpak](https://flathub.org/en/apps/com.microsoft.Edge) or download the .deb from [microsoft.com](https://www.microsoft.com/en-us/edge/)",
     "icon": {
-      "icon": {
-        "type": "iconify",
-        "set": "logos",
-        "name": "microsoft-edge"
-      }
+      "type": "iconify",
+      "set": "logos",
+      "name": "microsoft-edge"
     }
   }
 ]
