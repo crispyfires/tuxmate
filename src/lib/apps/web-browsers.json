@@ -324,5 +324,22 @@
       "set": "logos",
       "name": "microsoft-edge"
     }
+  },
+  {
+    "id": "opera",
+    "name": "Opera",
+    "description": "Propietary web browser by with a minimalistic design",
+    "category": "Web Browsers",
+    "targets": {
+      "arch": "opera",
+      "flatpak": "com.opera.Opera"
+    },
+    "unavailableReason": "Not in most official repos. Use [Flatpak](https://flathub.org/en/apps/com.opera.Opera) or download from [opera.com](https://www.opera.com/opera).",
+    "icon": {
+      "type": "iconify",
+      "set": "simple-icons",
+      "name": "opera",
+      "color": "#bf3b37"
+    }
   }
 ]
