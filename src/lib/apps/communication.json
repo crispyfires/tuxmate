@@ -238,5 +238,22 @@
       "type": "url",
       "url": "https://cinny.in/assets/cinny.svg"
     }
+  },
+  {
+    "id": "fluffy-chat",
+    "name": "Fluffy Chat",
+    "description": "Matrix client that uses Material Design",
+    "category": "Communication",
+    "targets": {
+      "arch": "fluffychat-bin",
+      "nix": "fluffychat-linux",
+      "flatpak": "im.fluffychat.Fluffychat",
+      "snap": "fluffychat"
+    },
+    "unavailableReason": "Not available in official repos. Use [Flatpak](https://flathub.org/en/apps/im.fluffychat.Fluffychat) or Snap(https://snapcraft.io/fluffychat).",
+    "icon": {
+      "type": "url",
+      "url": "https://fluffychat.im/assets/info-logo.png"
+    }
   }
 ]
