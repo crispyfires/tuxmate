@@ -269,7 +269,7 @@
     "unavailableReason": "Not available in official repos. Use [Flatpak](https://flathub.org/en/apps/im.fluffychat.Fluffychat) or Snap(https://snapcraft.io/fluffychat).",
     "icon": {
       "type": "url",
-      "url": "https://fluffychat.im/assets/info-logo.png"
+      "url": "https://imgproxy.flathub.org/insecure/dpr:1/f:avif/q:100/rs:fit:128:128/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9pbS9mbHVmZnljaGF0L0ZsdWZmeWNoYXQvZWYxZjE1YWY0ZWYwZmYyMzdmNmE0NGNkNzdhNWRlOTYvaWNvbnMvMTI4eDEyOC9pbS5mbHVmZnljaGF0LkZsdWZmeWNoYXQucG5n"
     }
   },
   {
@@ -307,7 +307,7 @@
     "unavailableReason": "Not in official repos. Install it using [Flatpak](https://flathub.org/en/apps/org.squidowl.halloy) or [Snap](https://snapcraft.io/halloy).",
     "icon": {
       "type": "url",
-      "url": "https://github.com/squidowl/halloy/blob/main/assets/logo.png"
+      "url": "https://halloy.chat/logo.png"
     }
   },
   {
