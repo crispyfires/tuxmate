@@ -271,5 +271,24 @@
       "type": "url",
       "url": "https://fluffychat.im/assets/info-logo.png"
     }
+  },
+  {
+    "id": "hexchat",
+    "name": "Hexchat",
+    "description": "Fully-featured IRC client",
+    "category": "Communication",
+    "targets": {
+      "ubuntu": "hexchat",
+      "debian": "hexchat",
+      "arch": "hexchat",
+      "fedora": "hexchat",
+      "opensuse": "hexchat",
+      "nix": "hexchat"
+    },
+    "unavailableReason": "Not in official repos. See [hexchat.github.io](https://hexchat.github.io/) for installation instructions.",
+    "icon": {
+      "type": "url",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Hexchat_Logo.svg"
+    }
   }
 ]
