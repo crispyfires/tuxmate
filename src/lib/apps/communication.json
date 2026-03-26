@@ -350,5 +350,46 @@
       "type": "url",
       "url": "https://static.gnome.org/catalog/app-icon/scalable/org.gnome.Polari.svg"
     }
+  },
+  {
+    "id": "dino",
+    "name": "Dino",
+    "description": "GTK-based XMPP client for GNOME",
+    "category": "Communication",
+    "targets": {
+      "ubuntu": "dino-im",
+      "debian": "dino-im",
+      "arch": "dino",
+      "fedora": "dino",
+      "opensuse": "dino",
+      "nix": "dino",
+      "flatpak": "im.dino.Dino",
+      "snap": "dino-tsugu"
+    },
+    "unavailableReason": "Not available in official repos. Use [Flatpak](https://flathub.org/en/apps/im.dino.Dino) or [Snap](https://snapcraft.io/dino-tsugu).",
+    "icon": {
+      "type": "url",
+      "url": "https://dino.im/img/logo.svg"
+    }
+  },
+  {
+    "id": "kaidan",
+    "name": "Kaidan",
+    "description": "XMPP client by the KDE project",
+    "category": "Communication",
+    "targets": {
+      "ubuntu": "kaidan",
+      "debian": "kaidan",
+      "arch": "kaidan",
+      "fedora": "kaidan",
+      "opensuse": "kaidan",
+      "nix": "kaidan",
+      "flatpak": "im.kaidan.kaidan"
+    },
+    "unavailableReason": "Not available in official repos. Use [Flatpak](https://flathub.org/en/apps/im.kaidan.kaidan)",
+    "icon": {
+      "type": "url",
+      "url": "https://imgproxy.flathub.org/insecure/dpr:1/f:avif/q:100/rs:fit:128:128/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9pbS9rYWlkYW4va2FpZGFuL2Q3ZGY3NmJkYjRiMzgzMzYyZGEwOTVjNDA4N2YwMTYyL2ljb25zLzEyOHgxMjgvaW0ua2FpZGFuLmthaWRhbi5wbmc"
+    }
   }
 ]
