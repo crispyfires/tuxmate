@@ -309,5 +309,26 @@
       "type": "url",
       "url": "https://github.com/squidowl/halloy/blob/main/assets/logo.png"
     }
+  },
+  {
+    "id": "konversation",
+    "name": "Konversation",
+    "description": "IRC client by the KDE project",
+    "category": "Communication",
+    "targets": {
+      "ubuntu": "konversation",
+      "debian": "konversation",
+      "arch": "konversation",
+      "fedora": "konversation",
+      "opensuse": "konversation",
+      "nix": "konversation",
+      "flatpak": "org.kde.konversation",
+      "snap": "konversation"
+    },
+    "unavailableReason": "Not in official repos. Install using [Flatpak](https://flathub.org/en/apps/org.kde.konversation) or [Snap](https://snapcraft.io/konversation).",
+    "icon": {
+      "type": "url",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Breezeicons-apps-48-konversation.svg"
+    }
   }
 ]
