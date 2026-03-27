@@ -182,7 +182,7 @@
   {
     "id": "nheko",
     "name": "Nheko",
-    "description": "Matrix client with a familiar user interface",
+    "description": "High-performance native Matrix client built with C++/Qt, prioritizing low-latency synchronization.",
     "category": "Communication",
     "targets": {
       "ubuntu": "nheko",
@@ -203,14 +203,14 @@
   {
     "id": "cinny",
     "name": "Cinny",
-    "description": "Streamlined Matrix client",
+    "description": "A refined Matrix client focusing purely on user experience",
     "category": "Communication",
     "targets": {
       "arch": "cinny-desktop-bin",
       "nix": "cinny-desktop",
       "flatpak": "in.cinny.Cinny"
     },
-    "unavailableReason": "Not in official repos. Install using [Flatpak](https://flathub.org/en/apps/in.cinny.Cinny).",
+    "unavailableReason": "Not in most official repos. Install using [Flatpak](https://flathub.org/en/apps/in.cinny.Cinny) or visit [cinny.in](https://cinny.in/) for more info.",
     "icon": {
       "type": "url",
       "url": "https://cinny.in/assets/cinny.svg"
@@ -223,11 +223,11 @@
     "category": "Communication",
     "targets": {
       "arch": "fluffychat-bin",
-      "nix": "fluffychat-linux",
+      "nix": "fluffychat",
       "flatpak": "im.fluffychat.Fluffychat",
       "snap": "fluffychat"
     },
-    "unavailableReason": "Not available in official repos. Use [Flatpak](https://flathub.org/en/apps/im.fluffychat.Fluffychat) or Snap(https://snapcraft.io/fluffychat).",
+    "unavailableReason": "Not available in most official repos. Use [Flatpak](https://flathub.org/en/apps/im.fluffychat.Fluffychat) or Snap(https://snapcraft.io/fluffychat) or visit [fluffychat.im](https://fluffychat.im/) for more info.",
     "icon": {
       "type": "url",
       "url": "https://imgproxy.flathub.org/insecure/dpr:1/f:avif/q:100/rs:fit:128:128/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9pbS9mbHVmZnljaGF0L0ZsdWZmeWNoYXQvZWYxZjE1YWY0ZWYwZmYyMzdmNmE0NGNkNzdhNWRlOTYvaWNvbnMvMTI4eDEyOC9pbS5mbHVmZnljaGF0LkZsdWZmeWNoYXQucG5n"
@@ -246,7 +246,7 @@
       "snap": "halloy",
       "homebrew": "--cask halloy"
     },
-    "unavailableReason": "Not in official repos. Install it using [Flatpak](https://flathub.org/en/apps/org.squidowl.halloy) or [Snap](https://snapcraft.io/halloy).",
+    "unavailableReason": "Not in official repos. Install it using [Flatpak](https://flathub.org/en/apps/org.squidowl.halloy) or [Snap](https://snapcraft.io/halloy) or see [halloy.chat](https://halloy.chat/) for more info.",
     "icon": {
       "type": "url",
       "url": "https://halloy.chat/logo.png"
@@ -267,7 +267,7 @@
       "flatpak": "im.dino.Dino",
       "snap": "dino-tsugu"
     },
-    "unavailableReason": "Not available in official repos. Use [Flatpak](https://flathub.org/en/apps/im.dino.Dino) or [Snap](https://snapcraft.io/dino-tsugu).",
+    "unavailableReason": "Not available in official repos. Use [Flatpak](https://flathub.org/en/apps/im.dino.Dino) or [Snap](https://snapcraft.io/dino-tsugu) or visit [dino.im](https://dino.im/) for more info.",
     "icon": {
       "type": "url",
       "url": "https://dino.im/img/logo.svg"
